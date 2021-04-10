@@ -1,5 +1,4 @@
 # LocX
-//** Abstract **//
 We all know that there are portals available like naukri, Shine, indeed, in which big companies post for the
 job to seek employees.
 But what about People with low education, or no education, or people who want part time jobs locally, but
