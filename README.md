@@ -24,7 +24,7 @@ We all know that there are portals available like Naukri, Shine, and Indeed, whe
 
 ## Technologies Used 🛠️
 
-- Flutter for cross-platform mobile app development
+- Java for android-platform mobile app development
 - Redux for state management
 - Google Maps API for location services
 - Firebase for user authentication and database management
